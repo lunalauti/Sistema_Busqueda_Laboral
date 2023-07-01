@@ -12,6 +12,8 @@ Descripción
 ----
 [Video explicativo](https://www.youtube.com/watch?v=YQywA-hdc_w)
 ----
+[Informe](https://github.com/lunalauti/Sistema_Busqueda_Laboral/blob/main/Informe%20Grupo%207.pdf)
+----
 ## Patrones de Diseño aplicados:
 - Double Dispatch
 - Observer
