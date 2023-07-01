@@ -1,2 +1,5 @@
-# Sistema_Busqueda_Laboral
-TRABAJO PRÁCTICO FINAL PARA LA ASIGNATURA PROGRAMACIÓN 3 DE ING. INFORMÁTICA
+### Sistema de Busqueda Laboral 
+----
+s
+----
+
