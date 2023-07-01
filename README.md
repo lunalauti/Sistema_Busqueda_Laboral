@@ -31,4 +31,9 @@ USUARIOS CARGADOS EN Agencia.bin:
 - Las contraseñas de todos es: 123
 - No hay ningún ticket cargado en el Agencia.bin subido.
 ----
-⭐️ From [lunalauti](https://github.com/lunalauti)
+⭐️ From 
+- [lunalauti](https://github.com/lunalauti)
+- [santisosa](https://github.com/santisosa)
+- [wencho8](https://github.com/Wencho8)
+- [santilapi13](https://github.com/santilapi13)
+
