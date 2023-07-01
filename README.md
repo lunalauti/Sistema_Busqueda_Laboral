@@ -13,6 +13,14 @@ Descripción
     - Se cobra una comision dependiendo la posicion de la lista y si se cierra o no el contrato.
 URL del video explicativo: https://www.youtube.com/watch?v=YQywA-hdc_w
 ----
+## Patrones de Diseño aplicados:
+- Double Dispatch
+- Observer
+- State
+- DAO/DTO
+- MVC
+- Factory
+----
 Aclaración
 ----
 USUARIOS CARGADOS EN Agencia.bin:
@@ -21,5 +29,6 @@ USUARIOS CARGADOS EN Agencia.bin:
 - Admin: admin
 - Las contraseñas de todos es: 123
 - No hay ningún ticket cargado en el Agencia.bin subido.
+El proyecto también incluye una simulacion con Threads
 ----
 ⭐️ From [lunalauti](https://github.com/lunalauti)
